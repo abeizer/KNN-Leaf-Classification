@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# large project files and folders
+leaf/
+leaf.zip
